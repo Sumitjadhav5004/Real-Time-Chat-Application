@@ -14,9 +14,13 @@ Multiple users can join the chat and exchange messages instantly.
 /project-folder
 │
 ├── server.js
+
 ├── package.json
+
 └── /public
+
     ├── index.html
+
 
 
 🛠️ Technologies Used:
